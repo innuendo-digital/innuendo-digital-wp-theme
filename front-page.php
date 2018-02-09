@@ -4,6 +4,7 @@
 		<!-- FIXIT - Currently not displaying properly in safari -->
 		<video autoplay poster="<?php echo_image_url(); ?>/videos/hero-movie.jpg">
 			<source src="<?php the_field('home_page_video'); ?>" type="video/mp4" />
+			<source src="<?php echo_image_url(); ?>/videos/hero-movie-2.mp4" type="video/mp4" />
 		</video>
 		<div class="mobile-home-header">
 			<h1>Innuendo Digital delivers results for clients through <strong>innovation, imagination and integrity</strong></h1>
