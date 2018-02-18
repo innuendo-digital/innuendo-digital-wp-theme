@@ -2122,6 +2122,10 @@ form .field input[type="text"], form .field select {
   margin-bottom: 1rem;
 }
 
+.case-articles ul {
+  list-style: none;
+}
+
 .latest-blogs .column {
   display: -webkit-box;
   display: -ms-flexbox;
